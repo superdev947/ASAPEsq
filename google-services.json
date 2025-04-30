@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116664106265",
+    "project_id": "asapesq-5bc2b",
+    "storage_bucket": "asapesq-5bc2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116664106265:android:cdaa913e034aefd5bd5988",
+        "android_client_info": {
+          "package_name": "com.Contractor.ASAPEsq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116664106265-r4a1h2p799humf8svc34ltf1cv73j8l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPk0EtVSfeFXvFYeNMtNd-EUWWOorU1kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116664106265-r4a1h2p799humf8svc34ltf1cv73j8l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
